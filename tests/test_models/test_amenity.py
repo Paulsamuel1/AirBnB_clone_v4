@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Unit Test for Amenity Class
+Unit Test for Class
 """
 from datetime import datetime
 import inspect
